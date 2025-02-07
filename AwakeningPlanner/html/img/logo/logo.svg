@@ -1,0 +1,17 @@
+<svg id="Logo" xmlns="http://www.w3.org/2000/svg" width="154" height="49" viewBox="0 0 154 49">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 45px;
+        fill:rgb(34, 114, 78);
+        font-family: Poppins;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill:rgb(69, 60, 64);
+      }
+    </style>
+  </defs>
+  <text id="Awakening." class="cls-1" x="-1.698" y="35.938">Awake<tspan class="cls-2">ning.</tspan></text>
+</svg>
